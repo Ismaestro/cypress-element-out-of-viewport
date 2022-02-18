@@ -1,3 +1,9 @@
 .body__container--huge {
     width: 200%;
 }
+
+/*@media (max-width: 576px) {
+    .body__container--huge {
+        width: 200%;
+    }
+}*/

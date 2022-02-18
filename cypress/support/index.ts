@@ -19,7 +19,8 @@
 Cypress.on('window:before:load', (win: any) => {
     win.getElementsOutOfViewport = () => {
         var elements = [];
-        var all = win.document.getElementsByTagName("*"), i = 0, rect, docWidth = win.document.documentElement.offsetWidth;
+        var all = win.document.getElementsByTagName("*"),i = 0,
+            rect, docWidth = win.document.documentElement.offsetWidth;
         for (; i < all.length; i++) {
             rect = all[i].getBoundingClientRect();
             if (rect.right > docWidth || rect.left < 0) {
