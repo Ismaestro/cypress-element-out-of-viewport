@@ -4,9 +4,9 @@
   <p align="center">
     Example repo to show how to find elements out of the viewport with Cypress
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/Ismaestro/cypress-element-out-of-viewport/issues/new?template=bug.md">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/Ismaestro/cypress-element-out-of-viewport/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
@@ -31,10 +31,10 @@ Run `ng e2e` to execute the end-to-end tests via cypress.
 
 ## Thanks!
 
-Any doubt just open an issue!
+And any doubt just open an issue!
 
 ## Copyright and license
 
-Code and documentation copyright 2022 the authors. Code released under the [MIT License](https://cypress-element-out-of-viewport/blob/master/LICENSE).
+Code and documentation copyright 2022 the authors. Code released under the [MIT License](https://github.com/Ismaestro/cypress-element-out-of-viewport/blob/master/LICENSE.md).
 
 Enjoy :metal:
