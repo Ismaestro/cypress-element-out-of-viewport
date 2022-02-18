@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
-
-  <h3 align="center">Logo</h3>
+<h3 align="center">cypress-element-out-of-viewport</h3></h3>
 
   <p align="center">
-    Short description
+    Example repo to show how to find elements out of the viewport with Cypress
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
@@ -15,69 +11,45 @@
 </p>
 
 
-## Table of contents
+# cypress-element-out-of-viewport
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
+## Development server
 
-## Quick start
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Some text
+## Code scaffolding
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Status
+## Build
 
-Here goes all the budgets
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## What's included
+## Running unit tests
 
-Some text
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+## Running end-to-end tests
 
-## Bugs and feature requests
-
-Have a bug or a feature request? Please first read the [issue guidelines](https://reponame/blob/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
-
-## Contributing
-
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
-
-## Creators
-
-**Creator 1**
-
-- <https://github.com/usernamecreator1>
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Thanks
 
-Some Text
+Any doubt just open an issue!
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2022 the authors. Code released under the [MIT License](https://cypress-element-out-of-viewport/blob/master/LICENSE).
 
 Enjoy :metal:
+
+
+
+
+
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
